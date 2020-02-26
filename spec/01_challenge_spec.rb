@@ -7,3 +7,5 @@ describe "first_challenge" do
     expect(first_challenge.values).to eq([{}, {}])
   end
 end
+
+
